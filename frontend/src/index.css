@@ -1,0 +1,25 @@
+body {
+  background-color: #f0f8ff;
+}
+
+.table thead th {
+  background-color: #add8e6;
+}
+
+.table tbody tr:nth-child(odd) {
+  background-color: #e6f2ff;
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+.btn-primary {
+  background-color: #6495ed;
+  border-color: #6495ed;
+}
+
+.btn-primary:hover {
+  background-color: #4169e1;
+  border-color: #4169e1;
+}
